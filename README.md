@@ -30,6 +30,6 @@
 ## Predictive Modeling
 Machine learning models were developed to predict:
 
-1 Fire Size
-2 Fire Duration (Time to Contain the Fire)
-3 Cause of the Wildfire
+1. Fire Size
+2. Fire Duration (Time to Contain the Fire)
+3. Cause of the Wildfire
