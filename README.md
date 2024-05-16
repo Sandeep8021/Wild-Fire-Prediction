@@ -26,3 +26,10 @@
 - Trends Over the Years: The data indicated trends in fire sizes and causes over the 24-year period.
 - Geographic Distribution: California, Texas, and Colorado emerged as the most wildfire-prone states, contributing to nearly 40% of all incidents.
 - Season-wise Distribution: Wildfires showed distinct seasonal patterns, with significant differences between weekdays and weekends.
+
+## Predictive Modeling
+Machine learning models were developed to predict:
+
+1 Fire Size
+2 Fire Duration (Time to Contain the Fire)
+3 Cause of the Wildfire
